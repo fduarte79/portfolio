@@ -1,0 +1,144 @@
+---
+title: "Felipe Duarte Portfólio"
+output: html_document
+---
+
+---
+
+## Dado Pessoais
+![](foto.jpg)  
+
++ Nome: Felipe Duarte  
++ Idade: 42 anos  
++ Cidade: Blumenau/SC  
++ [Instituto Federal Catarinense](https://ifc.edu.br/)  
++ Função: Pesquisador Institucional  
++ Cargo: Técnico em Tecnologia da Informação  
++ <felipe.duarte@ifc.edu.br>
++ [Currículo Lattes](http://lattes.cnpq.br/3493938289222172)  
++ Interesses: 
+  - Ciência de Dados
+  - Python
+  - R
+  - Bash
+  - C
+  - matematica
+  - estatística
+  - GNU/Linux
+  - segurança da informação.
+
+
+---
+
+## Certificados de Cursos  
+#### Pós-graduação  
++ [Pós Graduação/EAD Senac Santo Amaro](https://www1.sp.senac.br/sites/posgraduacao/#cursos_oferecidos)
+
+#### Graduação
++ [Tecnologia em Redes de Computadores/UFSM](https://www.ufsm.br/cursos/graduacao/santa-maria/tecnologia-em-redes-de-computadores/)
+
+#### Cursos de Línguas  
++ [Get It Blumenau](https://www.linkedin.com/company/get-it-blumenau)
+
+#### Cursos de Programação  
++ 
+
+
+---
+
+## Repositórios
+#### Resumos  
++ [Comandos usado no Git](https://github.com/fduarte79/git/blob/main/README.md)
+
+#### Estudos de casos  
++  [Despesas com viagens, diárias e outros gastos com dados obtidos 
+\partir do portal da transparência](https://github.com/fduarte79/viagens2021).
+
+#### Cursos de Programação
+
++  
+
+#### Resumos de Livros 
+
++  
+
+#### Cursos de Línguas
+
++  
+
+
+
+---
+
+## Sugestões para Estudar em Ciência de Dados  
++ **Fundamentos de Estatística para Ciência de Dados**: Fundamentos da linguagem R e sua interface com Python. Elementos de estatística descritiva, inferencial e preditiva. As abordagens clássica, bayesiana e de modelagem algorítmica. Previsão de séries temporais. 
+
++ **Introdução à Ciência de Dados e à Inteligência Artificial**: Fundamentos de Ciência de Dados: um pouco de história; as disciplinas; data x big data. Estado da arte: academia e indústria. Estudo de conceitos relacionados à Ciência de Dados: mentalidade orientada a dados, inferência estatística, análise de dados exploratória, o processo da ciência de dados, os processos de negócios x ciência de dados. Visão geral sobre algoritmos: regressão, similaridade, vizinhos, agrupamentos. Pensamento analítico: o que são bons modelos, visualização. Aplicações. Fundamentos de Inteligência Artificial: um pouco de história; as disciplinas; a noção de inteligência. Visão Geral das Áreas da IA: Representação do Conhecimento, Raciocínio e Planejamento; Agentes e Sistemas Multiagentes; Robótica; Machine Learning. Conceitos de Processamento da Língua Natural. Conceitos de Visão Computacional. 
+
++ **Introdução ao Python**: Estruturas de Dados no Python, Comandos Básicos, Pacotes e Bibliotecas Essenciais, Numpy, Matplotlib, Seaborn, Pandas, Statmodel, Scikit-learn.  
+
++ **Introdução Estatística**: Elementos de Inferência, Clássica e Bayesiana; Métodos de Estimação: Pontual e Intervalar, Teste de Hipótese, Métodos Computacionais Intensivos e Aproximações.  
+
++ **Python para Ciência de Dados**: Introdução a vetores e suas operações com Numpy. Uso de matrizes e suas operações: medidas populacionais, amostragem. Utilização de Pandas aplicando dataframes e suas operações: séries e suas operações, medidas populacionais e entrada e saída. Utilização de Matplotlib para visualização, através de gráficos de dispersão, gráficos de linhas, projeções populacionais e outros tipos de visualização. Introdução ao Scikit-Learn, explorando características básicas de modelos de aprendizado (classificação, regressão e agrupamento) e medidas de avaliação.  
+
++ **Gerência de Infraestrutura para Big Data**: Introdução à arquitetura para Big Data Analytics. Visão geral sobre Infraestrutura de armazenamento de dados para Big Data. Visão geral sobre Infraestrutura de computação e de rede para Big Data. Tópicos sobre virtualização e computação em nuvem. Plataformas de Big Data na nuvem: HDFS, Hadoop e MapReduce. Estudos de caso com Spark.  
+
++ **Visualização de Dados**: Introdução à área de visualização de dados e suas aplicações. Visualização de informações e visual analytics. Percepção, tipos de dados, representações visuais e princípios de interação. Estratégias para comunicação de resultados através de visualização.  
+
++ **Inteligência de Negócio**: Visão geral sobre sistemas de suporte à decisão e inteligência de negócio. Estudo sobre armazéns de dados e sobre modelagem OLAP. Compreensão dos principais conceitos envolvidos e entendimento sobre os principais modelos OLAP.  
+
++ **Pré-processamento de Dados**: Visão geral sobre obtenção e transformação de dados. Compreensão e prática de técnicas de transformação de dados estruturados e não-estruturados (pré-processamento). Foco em normalização de dados para tarefas de análise e aprendizado de máquina.  
+
++ **Aprendizado Supervisionado II**: Estruturas de Dados no Python, Comandos Básicos, Pacotes e Bibliotecas Essenciais, Numpy, Matplotlib, Seaborn, Pandas, Statmodel, Scikit-learn.  
+
++ **Redes Neurais e Deep Learning**: Estruturas de Dados no Python, Comandos Básicos, Pacotes e Bibliotecas Essenciais, Numpy, Matplotlib, Seaborn, Pandas, Statmodel, Scikit-learn.  
+
++ **Bancos de Dados Relacionais e Não-Relacionais**: Estudo sobre dados espaço-temporais, multimídia, hipermídia, de fluxo contínuo e de mídias digitais. Visão geral sobre a gestão de bancos de dados sem esquemas prévios. Visão geral sobre novas aplicações em dados: Big data, Dados não estruturados, de mídias sociais.  
+
++ **Banco de Dados**: Estruturas de Dados no Python, Comandos Básicos, Pacotes e Bibliotecas Essenciais, Numpy, Matplotlib, Seaborn, Pandas, Statmodel, Scikit-learn.  
+
++ **Machine Learning I**: Aprendizado Supervisionado: Introdução ao aprendizado supervisionado.  Apresentação dos paradigmas de aprendizado: aprendizado baseado em distância (K-NN), aprendizado baseado em procura (árvores de decisão para classificação e regressão), aprendizado probabilístico (Naïve Bayes e Redes Bayesianas), aprendizado baseado em otimização (Regressão Linear e Logística, Redes Neurais Artificiais, Máquinas de Vetores de Suporte), aprendizado em comitês (Random Forests, Bagging, Boosting). Avaliação de modelos preditivos. 
+
++ **Machine Learning II**: Aprendizado Não Supervisionado: Introdução ao aprendizado não-supervisionado. Apresentação dos paradigmas de agrupamento de dados, tanto particional com e sem sobreposição como hierárquico e baseado em densidade. Aplicação de redução de dimensionalidade, abordando a maldição da dimensionalidade e os métodos de redução de dimensionalidade. Introdução aos modelos geradores e avaliação de aprendizado não-supervisionado.
+
++ **Deep Learning I**: Redes Neurais para Visão Computacional: Introdução à Visão Computacional com Deep Learning. Redes Neurais Convolucionais: arquiteturas; camadas convolucionais; camadas totalmente conectadas; camadas de pooling; conexões residuais; regularização via weight decay; regularização via dropout; funções de ativação; funções de custo. Classificação de Imagens. Localização de Objetos. Detecção de Objetos. Segmentação Semântica. Segmentação de Instâncias. Redes Geradoras Adversárias. 
+
++ **Deep Learning II**: Redes Neurais para Processamento de Linguagem Natural: Introdução à Processamento de Linguagem Natural com Deep Learning. Representações vetoriais de palavras (word embeddings). Modelos de Linguagens. Redes Neurais Recorrentes (Vanilla, LSTMs, GRUs). Tradução de Máquina. Arquiteturas sequence-to-sequence. Mecanismos de Atenção. Transformers. Representações contextuais de palavras. Aplicações multimodais: recuperação bidirecional; síntese de imagens baseada em texto; Visual Question Answering (VQA). Framework de deep learning (pytorch).  
+
++ **Aprendizado Supervisionado I**: Introdução à modelo linear geral; Regressão múltipla; Regressão na família exponencial; Dados binários e regressão logística; Regressão com penalização L1 e L2; Regressão por splines.  
+
++ **Previsões Bayesianas e Modelos Gráficos**: Modelos Em Espaço de Estados, Distribuições a Priori e a Posteriori; Distribuição Preditiva; Seleção de Modelos; Modelos Gráficos Direcionados e Não Direcionados; Inferência e Algoritmos.  
++ **Aprendizado Não Supervisionado**: K-MEDIAS, Modelos de Mistura, Redes Neurais Não-supervisionadas, Algoritmo EM; Análise de Componentes Principais.  
+
++ **Mineração de dados**: Introdução ao Aprendizado de Máquina, Visualização de Dados, Apresentação de Conceitos Básicos, Apresentação de Alguns Problemas Relevantes.  
+
++ **Métodos de Otimização**: Exemplos de Problemas de Otimização, Programação Linear e Aplicações, Programação Quadrática a Aplicações, Modelos Mais Gerais, Otimização Diferenciável: Condições de Otimalidade, Métodos de Solução, Análise de Convergência Local e Global, Aplicações, Otimização Robusta, Otimização Estocástica, Controle Ótimo.  
+
++ **Introdução a Modelagem de Incertezas**: Conceitos de Probabilidade, Probabilidade Condicional, Modelos para Variáveis Aleatórias Discretas e Continuas, Distribuições Condicionais, Teorema de Bayes, Momentos.  
+
+
+
+---
+## Referências  
+##### Programas  
++ [Escola de Dados](https://escoladedados.org/)
++ [Open Knoledge Brasil](https://ok.org.br/)
++ [Dados Abertos](https://dados.gov.br/)
+
+
+##### Twitter
++ [okfnbr](https://twitter.com/okfnbr)  
++ [Escola de Dados](https://twitter.com/EscolaDeDados)  
+
+##### Cursos  
++ [PUCRS - Ciência de Dados](https://online.pucrs.br/pos/ciencia-de-dados)
+[UFRJ - Especialização em Ciência de Dados](http://www.im.ufrj.br/index.php/pt/ensino/pos-graduacao/pos-graduacao-do-im/cursos-lato-sensu/ciencia-de-dados)
+
+##### Canais  
++ [Programação Dinâmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg)  
+
+##### Tópicos  
++ [Como criar um PLANO DE ESTUDOS para se tornar um CIENTISTA DE DADOS? (Roadmap Ciência de Dados)](https://www.youtube.com/watch?v=o8NpsLSkKUo)  
+
+##### Bibliografia
++ [Manual de Análise de Dados - Estatística e Modelagem Multivariada com Excel, SPSS e Stata Capa comum](https://www.amazon.com.br/Manual-An%C3%A1lise-Dados-Luiz-F%C3%A1vero/dp/8535270876)
