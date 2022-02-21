@@ -53,6 +53,7 @@ output: html_document
 #### Estudos de casos  
 +  [Despesas com viagens, diárias e outros gastos com dados obtidos 
 \partir do portal da transparência](https://github.com/fduarte79/viagens2021).
++ [siconfi](https://fduarte79.github.io/siconfi/) (Estudo de caso para a Base dos Dados)
 
 #### Cursos de Programação
 
