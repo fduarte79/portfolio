@@ -37,41 +37,42 @@ output: html_document
 #### Graduação
 + Tecnologia em Redes de Computadores - [UFSM](https://www.ufsm.br/cursos/graduacao/santa-maria/tecnologia-em-redes-de-computadores/)
 
-#### Cursos de Línguas  
+#### Cursos de Línguas (*em curso*)  
 + [Get It Blumenau](https://www.linkedin.com/company/get-it-blumenau)
 
-#### Cursos de Programação  
+#### Cursos de Programação (*em curso*)  
 + [Didática Tech](https://didatica.tech/curso-redes-neurais-deep-learning-e-visao-computacional/)
 
 
 ---
 
 ## Repositórios
-#### Resumos  
-+ [Comandos usado no Git](https://github.com/fduarte79/git/blob/main/README.md)
 
 #### Estudos de casos  
 +  [Despesas com viagens, diárias e outros gastos com dados obtidos 
 \partir do portal da transparência](https://github.com/fduarte79/viagens2021).
 + [siconfi](https://fduarte79.github.io/siconfi/) (Estudo de caso para a Base dos Dados)
 
-#### Cursos de Programação
+
+#### Estatística
 
 +  
 
-#### Resumos de Livros 
+#### [R](https://github.com/fduarte79/r)
 
 +  
 
-#### Cursos de Línguas
+#### Python
 
 +  
 
 
+#### Resumos  
++ [Comandos usado no Git](https://github.com/fduarte79/git/blob/main/README.md)
 
 ---
 
-## Sugestões para Estudar em Ciência de Dados  
+## Sugestões de Estudo em Ciência de Dados e Aprendizagem de Máquina
 + **Fundamentos de Estatística para Ciência de Dados**: Fundamentos da linguagem R e sua interface com Python. Elementos de estatística descritiva, inferencial e preditiva. As abordagens clássica, bayesiana e de modelagem algorítmica. Previsão de séries temporais. 
 
 + **Introdução à Ciência de Dados e à Inteligência Artificial**: Fundamentos de Ciência de Dados: um pouco de história; as disciplinas; data x big data. Estado da arte: academia e indústria. Estudo de conceitos relacionados à Ciência de Dados: mentalidade orientada a dados, inferência estatística, análise de dados exploratória, o processo da ciência de dados, os processos de negócios x ciência de dados. Visão geral sobre algoritmos: regressão, similaridade, vizinhos, agrupamentos. Pensamento analítico: o que são bons modelos, visualização. Aplicações. Fundamentos de Inteligência Artificial: um pouco de história; as disciplinas; a noção de inteligência. Visão Geral das Áreas da IA: Representação do Conhecimento, Raciocínio e Planejamento; Agentes e Sistemas Multiagentes; Robótica; Machine Learning. Conceitos de Processamento da Língua Natural. Conceitos de Visão Computacional. 
@@ -117,9 +118,19 @@ output: html_document
 
 + **Introdução a Modelagem de Incertezas**: Conceitos de Probabilidade, Probabilidade Condicional, Modelos para Variáveis Aleatórias Discretas e Continuas, Distribuições Condicionais, Teorema de Bayes, Momentos.  
 
+---
 
+## Artigos
++
 
 ---
+
+### Reportagens Interessantes
++ [How to Become Data Scientist – A Complete Roadmap](https://www.geeksforgeeks.org/how-to-become-data-scientist-a-complete-roadmap/)
++ [Guia do Cientista de Dados das Galáxias](https://github.com/utzig/data-science-roadmap)
+
+---
+
 ## Referências  
 ##### Programas  
 + [Escola de Dados](https://escoladedados.org/)
