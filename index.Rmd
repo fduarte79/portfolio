@@ -60,7 +60,8 @@ output: html_document
 
 #### R
 
-+  [Iniciando no Ggplot - parte I](https://github.com/fduarte79/1/blob/main/src/ggplot_part1.Rmd)
++ Vizualização de Dados  
+Iniciando no `ggplot`: [parte I](https://github.com/fduarte79/1/blob/main/src/ggplot_part1.Rmd)
 
 #### Python
 
