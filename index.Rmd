@@ -58,9 +58,9 @@ output: html_document
 
 +  
 
-#### [R](https://github.com/fduarte79/r)
+#### R
 
-+  
++  [Iniciando no Ggplot - parte I](https://github.com/fduarte79/1/blob/main/src/ggplot_part1.html)
 
 #### Python
 
