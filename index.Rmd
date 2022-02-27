@@ -61,10 +61,10 @@ output: html_document
 #### R
 
 + Vizualização de Dados  
-Iniciando no `ggplot`: [intodução](https://github.com/fduarte79/r/tree/main/src/aed/ggplot_geom_intro.html),
-[explorando o df](https://github.com/fduarte79/r/tree/main/src/aed/ggplot_geom_df.html), 
-[geom_point](https://github.com/fduarte79/r/tree/main/src/aed/ggplot_geom_point.html), 
-[geom_smooth](https://github.com/fduarte79/r/tree/main/src/aed/ggplot_geom_smooth.html)
+Iniciando no `ggplot`: [intodução](https://github.com/fduarte79/r/blob/main/src/aed/ggplot_geom_intro.html),
+[explorando o df](https://github.com/fduarte79/r/blob/main/src/aed/ggplot_geom_df.html), 
+[geom_point](https://github.com/fduarte79/r/blob/main/src/aed/ggplot_geom_point.html), 
+[geom_smooth](https://github.com/fduarte79/r/blob/main/src/aed/ggplot_geom_smooth.html)
 
 #### Python
 
