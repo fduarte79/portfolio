@@ -65,7 +65,7 @@ Iniciando no `ggplot`:
 [intodução](https://fduarte79.github.io/r/src/aed/ggplot_geom_intro.html),
 [explorando o df](https://fduarte79.github.io/r/src/aed/ggplot_geom_df.html), 
 [geom_point](https://fduarte79.github.io/r/src/aed/ggplot_geom_point.html), 
-[geom_smooth](https://fduarte79.github.io/r/src/aed/ggplot_geom_smooth.html)
+[geom_smooth](https://fduarte79.github.io/r/src/aed/ggplot_geom_point.html)
 
 #### Python
 
