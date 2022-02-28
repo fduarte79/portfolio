@@ -66,7 +66,8 @@ Iniciando no `ggplot`:
 [explorando o df](https://fduarte79.github.io/r/src/aed/ggplot_geom_df.html), 
 [dispersão](https://fduarte79.github.io/r/src/aed/ggplot_geom_point.html), 
 [disperssão (smooth)](https://fduarte79.github.io/r/src/aed/ggplot_geom_smooth.html),
-[barras e polar](https://fduarte79.github.io/r/src/aed/ggplot_geom_bar.html)
+[barras e polar](https://fduarte79.github.io/r/src/aed/ggplot_geom_bar.html),
+[boxplot](https://fduarte79.github.io/r/src/aed/ggplot_geom_boxplot.html)
 
 #### Python
 
