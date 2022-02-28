@@ -9,13 +9,13 @@ output: html_document
 ![](foto.jpg)  
 
 + Nome: Felipe Duarte  
-+ Idade: 42 anos  
 + Cidade: Blumenau/SC  
 + [Instituto Federal Catarinense](https://ifc.edu.br/)  
 + Função: Pesquisador Institucional  
 + Cargo: Técnico em Tecnologia da Informação  
 + <felipe.duarte@ifc.edu.br>
 + [Currículo Lattes](http://lattes.cnpq.br/3493938289222172)  
++ [GitHub](https://github.com/fduarte79)  
 + Interesses: 
   - Ciência de Dados
   - Python
@@ -60,12 +60,13 @@ output: html_document
 
 #### R
 
-+ Vizualização de Dados  
++ Exploração e Vizualização de Dados - EAD  
 Iniciando no `ggplot`: 
 [intodução](https://fduarte79.github.io/r/src/aed/ggplot_geom_intro.html),
 [explorando o df](https://fduarte79.github.io/r/src/aed/ggplot_geom_df.html), 
-[geom_point](https://fduarte79.github.io/r/src/aed/ggplot_geom_point.html), 
-[geom_smooth](https://fduarte79.github.io/r/src/aed/ggplot_geom_point.html)
+[dispersão](https://fduarte79.github.io/r/src/aed/ggplot_geom_point.html), 
+[disperssão (smooth)](https://fduarte79.github.io/r/src/aed/ggplot_geom_smooth.html),
+[barras e polar](https://fduarte79.github.io/r/src/aed/ggplot_geom_bar.html)
 
 #### Python
 
