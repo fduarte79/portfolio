@@ -53,22 +53,17 @@ output: html_document
 \partir do portal da transparência](https://github.com/fduarte79/viagens2021).
 + [siconfi](https://fduarte79.github.io/siconfi/) (Estudo de caso para a Base dos Dados)
 
-
-#### Estatística
-
-+  
-
 #### R
 
 + Exploração e Vizualização de Dados - EAD  
 Iniciando no `ggplot`: 
-[intodução](https://fduarte79.github.io/r/src/aed/ggplot_geom_intro.html),
-[conceitos iniciais de estatistica](https://fduarte79.github.io/r/src/aed/est_aed_part1.html)
+[intodução](https://fduarte79.github.io/r/src/aed/ggplot_geom_intro.html), 
+[conceitos iniciais de estatistica](https://fduarte79.github.io/r/src/aed/est_aed_part1.html), 
 [explorando o df](https://fduarte79.github.io/r/src/aed/ggplot_geom_df.html), 
 [dispersão](https://fduarte79.github.io/r/src/aed/ggplot_geom_point.html), 
-[disperssão (smooth)](https://fduarte79.github.io/r/src/aed/ggplot_geom_smooth.html),
-[barras e polar](https://fduarte79.github.io/r/src/aed/ggplot_geom_bar.html),
-[boxplot](https://fduarte79.github.io/r/src/aed/ggplot_geom_boxplot.html)
+[disperssão (smooth)](https://fduarte79.github.io/r/src/aed/ggplot_geom_smooth.html), 
+[barras e polar](https://fduarte79.github.io/r/src/aed/ggplot_geom_bar.html), 
+[boxplot](https://fduarte79.github.io/r/src/aed/ggplot_geom_boxplot.html) 
 
 #### Python
 
