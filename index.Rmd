@@ -63,6 +63,7 @@ output: html_document
 + Exploração e Vizualização de Dados - EAD  
 Iniciando no `ggplot`: 
 [intodução](https://fduarte79.github.io/r/src/aed/ggplot_geom_intro.html),
+[conceitos iniciais de estatistica](https://fduarte79.github.io/r/src/aed/est_aed_part1.html)
 [explorando o df](https://fduarte79.github.io/r/src/aed/ggplot_geom_df.html), 
 [dispersão](https://fduarte79.github.io/r/src/aed/ggplot_geom_point.html), 
 [disperssão (smooth)](https://fduarte79.github.io/r/src/aed/ggplot_geom_smooth.html),
