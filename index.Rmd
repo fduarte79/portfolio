@@ -48,12 +48,12 @@ output: html_document
 
 ## Repositórios
 
-#### Estudos de casos  
+### Estudos de casos  
 +  [Despesas com viagens, diárias e outros gastos com dados obtidos 
 \partir do portal da transparência](https://github.com/fduarte79/viagens2021).
 + [siconfi](https://fduarte79.github.io/siconfi/) (Estudo de caso para a Base dos Dados)
 
-#### R
+### R
 
 **Exploração e Vizualização de Dados - EAD**  
 
@@ -68,12 +68,12 @@ output: html_document
 conceitos e funções básicas [parte 1](https://fduarte79.github.io/r/src/aed/est_aed_part1.html), 
 explorando com gráficos [parte 2](https://fduarte79.github.io/r/src/aed/est_aed_part2.html)
 
-#### Python
+### Python
 
 +  
 
 
-#### Resumos  
+### Resumos  
 + [Comandos usado no Git](https://github.com/fduarte79/git/blob/main/README.md)
 
 ---
