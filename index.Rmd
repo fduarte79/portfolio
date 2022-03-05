@@ -149,39 +149,61 @@ explorando com gráficos [parte 2](https://fduarte79.github.io/r/src/aed/est_aed
 
 ## Referências  
 
+#### Organizações e Institutos
++ [Open Knoledge Brasil](https://ok.org.br/)
++ [Escola de Dados](https://escoladedados.org/)
++ [Dados Abertos](https://dados.gov.br/)
++ [ITS Rio](https://itsrio.org/pt/home/)
+
 #### Twitter
 + [Open Knowledge Brasil](https://twitter.com/okfnbr)  
-+ [Escola de Dados](https://twitter.com/EscolaDeDados)  
-+ [Base dos Dados](https://twitter.com/basedosdados)
-+ [ITS Rio](https://twitter.com/ITSriodejaneiro)
-
-#### Programas  
-+ [Escola de Dados](https://escoladedados.org/)
-+ [Open Knoledge Brasil](https://ok.org.br/)
-+ [Dados Abertos](https://dados.gov.br/)
++ [Escola de Dados](https://twitter.com/EscolaDeDados)    
++ [Base dos Dados](https://twitter.com/basedosdados)  
++ [ITS Rio](https://twitter.com/ITSriodejaneiro)  
 
 #### Cursos  
-+ [Mooc Técnico](https://courses.elearning.tecnico.ulisboa.pt/)
-+ [PUCRS - Ciência de Dados](https://online.pucrs.br/pos/ciencia-de-dados)
-+ [UFRJ - Especialização em Ciência de Dados](http://www.im.ufrj.br/index.php/pt/ensino/pos-graduacao/pos-graduacao-do-im/cursos-lato-sensu/ciencia-de-dados)
-+ [Coursera](https://www.coursera.org/courses?query=free)
++ [Mooc Técnico](https://courses.elearning.tecnico.ulisboa.pt/)  
++ [PUCRS - Ciência de Dados](https://online.pucrs.br/pos/ciencia-de-dados)  
++ [UFRJ - Especialização em Ciência de Dados](http://www.im.ufrj.br/index.php/pt/ensino/pos-graduacao/pos-graduacao-do-im/cursos-lato-sensu/ciencia-de-dados)  
++ [Coursera](https://www.coursera.org/courses?query=free)  
++ [Enap](https://enap.gov.br/pt/)  
++ [Escola Virtual](https://www.escolavirtual.gov.br/) 
++ [Kaggle](https://www.kaggle.com/learn)  
++ [Data Science Academy](https://www.datascienceacademy.com.br/)  
++ [Estatística com R](https://storopoli.io/Estatistica/)  
++ [Software R: curso avançado](https://smolski.github.io/livroavancado/)
++ [RPubs - EstatBasica](https://rpubs.com/EstatBasica)
 
-#### Reportagens Interessantes
+#### Acadêmicos - artigos, TCC's, projetos de pesquisa
++
+
+#### Reportagens e publicações específicas
 + [How to Become Data Scientist – A Complete Roadmap](https://www.geeksforgeeks.org/how-to-become-data-scientist-a-complete-roadmap/)
 + [Guia do Cientista de Dados das Galáxias](https://github.com/utzig/data-science-roadmap)
 + [Como criar um PLANO DE ESTUDOS para se tornar um CIENTISTA DE DADOS? (Roadmap Ciência de Dados)](https://www.youtube.com/watch?v=o8NpsLSkKUo)  
++ [10 Cursos de Data Science do Kaggle gratuitos para iniciantes](https://medium.com/data-hackers/10-cursos-de-data-science-do-kaggle-gratuitos-para-iniciantes-b0adb00dfd9e)
 
-#### Artigos
-+
-
-#### Páginas 
-+ [Dennis M. Ritchie](https://www.bell-labs.com/usr/dmr/www/)
-+ [Eric S. Raymond's Home Page ](http://www.catb.org/esr/)
-
-#### Canais e Vídeos no Youtube
+#### Canais e Vídeos no Youtube  
 + [DidaticaTech](https://www.youtube.com/c/Did%C3%A1ticaTech/playlists)  
 + [Estatística com R](https://www.youtube.com/playlist?list=PLuQWWXrHQLiejECp_ldRPEjuVnJrG7fVS)  
 + [Fernanda Peres](https://www.youtube.com/c/FernandaPeres/playlists)  
-+ [Ken Thompson and Dennis Ritchie Explain UNIX (Bell Labs)](https://www.youtube.com/watch?v=JoVQTPbD6UY)  
++ [Programação Dinâmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg)
+
+#### Linguas  
++ [DW](https://learngerman.dw.com/pt-br/overview)
++ [Lud Fonseca Sprache&Wissen](https://www.youtube.com/c/Alem%C3%A3oFluente/featured)  
++ [Learn English with EnglishClass101.com ](https://www.youtube.com/c/EnglishClass101/playlists)  
++ [Rachel's English](https://www.youtube.com/c/rachelsenglish/playlists)
+
+#### Discord
++ [Open Knowledge Brasil](https://discord.com/invite/aC3Q33q)
++ [Base dos Dados](https://discord.com/invite/huKWpsVYx4)
+
+#### Inspiradorações 
++ [Dennis M. Ritchie](https://www.bell-labs.com/usr/dmr/www/)
++ [Eric S. Raymond's Home Page ](http://www.catb.org/esr/)  
++ [Liane Margarida Rockenbach Tarouco](http://penta3.ufrgs.br/liane/Liane%20Margarida%20Rockenbach%20Tarouco.htm)
++ [Raul Fernando Weber](https://www.inf.ufrgs.br/site/docente/raul-fernando-weber/)  
 + [AT&T Archives: The UNIX Operating System](https://www.youtube.com/watch?v=tc4ROCJYbm0)
 + [Programação Dinâmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg)  
++ [Ken Thompson and Dennis Ritchie Explain UNIX (Bell Labs)](https://www.youtube.com/watch?v=JoVQTPbD6UY)  
